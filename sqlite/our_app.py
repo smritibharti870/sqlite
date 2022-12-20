@@ -7,7 +7,7 @@ import database
 # database.delete_one('6')
 
 # LOOKUP Email Address Record
-database.email_lookup("smritibharti0711@gmail.com")
+database.email_lookup("ABC@gmail.com")
 
 #Add MAny Records
 
